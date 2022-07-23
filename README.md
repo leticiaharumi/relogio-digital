@@ -1,3 +1,3 @@
 # relogio-digital
 
-https://leticiaharumi.github.io/relogio-digital/
+https://relogio-leticiaharumi.netlify.app/
